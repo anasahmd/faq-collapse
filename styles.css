@@ -65,7 +65,7 @@ body {
   cursor: pointer;
 }
 
-.faq.toggle:focus {
+.faq-toggle:focus {
   outline: 0;
 }
 .faq.active .faq-toggle {
