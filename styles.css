@@ -65,6 +65,9 @@ body {
   cursor: pointer;
 }
 
+.faq.toggle:focus {
+  outline: 0;
+}
 .faq.active .faq-toggle {
   background-color: #9fa4a8;
 }
